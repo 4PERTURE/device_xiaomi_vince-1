@@ -13,5 +13,10 @@
     	"repository": "vendor_xiaomi_vince",
     	"target_path": "vendor/xiaomi/vince",
     	"branch": "baked-release"
+  },
+  {
+        "repository": "4PERTURE/potato-common",
+        "target_path": "vendor/xiaomi/vince-common",
+        "branch": "baked-release"
   }
 ]
