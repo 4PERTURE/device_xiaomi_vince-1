@@ -415,11 +415,9 @@ PRODUCT_COPY_FILES += \
 	
 # VR
 PRODUCT_PACKAGES += \
-    vr.msm8953
-
-PRODUCT_PACKAGES += \
     android.hardware.vr@1.0-impl \
-    android.hardware.vr@1.0-service
+    android.hardware.vr@1.0-service \
+    vr.msm8953
 
 # Wifi
 PRODUCT_PACKAGES += \
